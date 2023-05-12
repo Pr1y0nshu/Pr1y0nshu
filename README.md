@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Yadav</h1>
 <h3 align="center">A passionate coder and software engineering student from India</h3>
 
-- 🌱 I’m currently learning **Python, Java, C**
+- 🌱 I’m currently learning **Python, Java, C++
 
 - 📫 How to reach me **raopriyanshusingh2003@gmail.com**
 
